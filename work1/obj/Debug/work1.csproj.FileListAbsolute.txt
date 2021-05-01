@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\work1\work1\bin\Debug\work1.exe.config
+C:\Users\Nikita\source\repos\work1\work1\bin\Debug\work1.exe
+C:\Users\Nikita\source\repos\work1\work1\bin\Debug\work1.pdb
+C:\Users\Nikita\source\repos\work1\work1\obj\Debug\work1.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\work1\work1\obj\Debug\work1.Form1.resources
+C:\Users\Nikita\source\repos\work1\work1\obj\Debug\work1.Properties.Resources.resources
+C:\Users\Nikita\source\repos\work1\work1\obj\Debug\work1.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\work1\work1\obj\Debug\work1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\work1\work1\obj\Debug\work1.exe
+C:\Users\Nikita\source\repos\work1\work1\obj\Debug\work1.pdb
